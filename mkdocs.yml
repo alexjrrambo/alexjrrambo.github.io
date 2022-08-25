@@ -1,0 +1,25 @@
+site_name: Central de ajuda
+
+nav:
+  - O que é a plataforma Indexa?: index.md
+  - Criando meu site:
+    - Criação de conta: criando-meu-site/criacao-de-conta.md
+    - Formulário de criação: criando-meu-site/formulario-de-criacao.md
+  - Visualizndo meu site: usage.md        
+  - Editando meu site:
+    - Editar informações: usage.md
+    - Adicionar e remover serviços: usage.md    
+    - Mudar template e aparência: usage.md
+    - Modo invisível: usage.md 
+    - Limpar cache do nevegador: useage.md
+  - Domínio personalizado:  usage.md
+  - Certificado SSL:  usage.md
+  - Otimização para motores de busca (SEO):  usage.md
+
+theme:
+  name: "material"
+  language: pt-BR
+  logo: https://d2qk6l2gc5y036.cloudfront.net/indexa-mfe-library/shared-assets/indexaLogo.png
+
+extra_css:
+  - stylesheets/extra.css
