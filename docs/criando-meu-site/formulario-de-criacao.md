@@ -20,7 +20,7 @@ Neste passo você tem a opção de mostrar qual a visão, missão e valores da s
 
 ## Passo 4: Produtos/Serviços
 
-Neste passo você deverá informar qual o tipo e quais produtos ou serviços sua empresa oferece. No campo **"Como você categoriza seus serviços?"** você deve escolher uma categoria que mais se encaixa para a sua empresa, por exemplo, uma clínica de estética pode chamar seus serviços de **Procedimentos**, uma instaladora de **Serviços**, um restaurante de **Cardápio**.
+Neste passo você deverá informar qual o tipo e quais produtos ou serviços sua empresa oferece. No campo **"Como você categoriza seus serviços?"** você deve escolher uma categoria que mais se encaixa para o seu contexto, por exemplo, uma clínica de estética pode chamar seus serviços de **Procedimentos**, uma instaladora de **Serviços**, um restaurante de **Cardápio**.
 
 Após informar sua categoria, você deverá listar quais produtos/serviços sua empresa oferece, informando uma imagem, um nome e uma descrição para os mesmos, para adicionar mais de um produto/serviço, você deve clicar no botão **"Clique aqui para adicionar mais produtos/serviços"**. Caso você queira excluir algum serviço informado, clique no ícone de lixeira localizado no canto superior direito do serviço em questão.
 

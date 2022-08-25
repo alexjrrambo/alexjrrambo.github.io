@@ -5,16 +5,18 @@ nav:
   - Criando meu site:
     - Criação de conta: criando-meu-site/criacao-de-conta.md
     - Formulário de criação: criando-meu-site/formulario-de-criacao.md
-  - Visualizndo meu site: usage.md        
+  - Visualizndo meu site: visualizando-meu-site.md        
   - Editando meu site:
-    - Editar informações: usage.md
-    - Adicionar e remover serviços: usage.md    
-    - Mudar template e aparência: usage.md
-    - Modo invisível: usage.md 
-    - Limpar cache do nevegador: useage.md
-  - Domínio personalizado:  usage.md
-  - Certificado SSL:  usage.md
-  - Otimização para motores de busca (SEO):  usage.md
+    - Editar informações: editando-meu-site/editar-informacoes.md
+    - Adicionar ou remover serviços: editando-meu-site/adicionar-ou-remover-servicos.md    
+    - Mudar template e aparência: editando-meu-site/mudar-template-e-aparencia.md
+    - Modo invisível: editando-meu-site/modo-invisivel.md 
+    - Limpar cache do nevegador: editando-meu-site/limpar-cache-do-navegador.md
+  - Domínio personalizado:  
+    - Como comprar um domínio?: dominio-personalizado/como-comprar-um-dominio.md
+    - Definir domínio personalizado: dominio-personalizado/definir-dominio-personalizado.md
+  - Ativando certificado SSL:  ativando-certificado-ssl.md
+  - Otimização para motores de busca (SEO):  otimizacao-para-motores-de-busca-seo.md
 
 theme:
   name: "material"
