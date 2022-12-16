@@ -4,11 +4,11 @@ Um certificado SSL passará mais credibilidade para seus clientes e também deix
 
 **Sem certificado ativo**
 
-Imagem
+![http](./images/httpImage.jpg)
 
 **Com certificado ativo**
 
-Imagem
+![https](./images/httpImage.jpg)
 
 ## Solicitar ativação de um certificado
 
