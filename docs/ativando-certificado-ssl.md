@@ -8,7 +8,7 @@ Um certificado SSL passará mais credibilidade para seus clientes e também deix
 
 **Com certificado ativo**
 
-![https](./images/httpImage.jpg)
+![https](./images/httpsImage.jpg)
 
 ## Solicitar ativação de um certificado
 

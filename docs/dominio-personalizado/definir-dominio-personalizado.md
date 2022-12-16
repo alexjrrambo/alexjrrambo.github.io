@@ -4,15 +4,40 @@ Por padrão, seu site já tem um domínio **indexapro.com.br**, porém, é poss�
 
 Para definir um domínio personalizado, você deve acessar o site onde você comprou seu domínio e insirir algumas linhas nas configurações de DNS. Calma, é fácil, vamos te explicar como realizar este processo e o que são DNSs.
 
-## O que é DNS?
+## O que é apontamendo de DNS?
+Os apontamentos são responsáveis por direcionar um site ou e-mail para um determinado servidor.
+
+Então neste caso, os apontamentos irão direcionar o seu domínio próprio para o servidor da Indexa. Assim, quando alguém acessar o seu endereço, será encaminhado diretamente para seu site na Indexa.
+
+Desta forma, após contratar um domínio, você vai precisar criar alguns apontamentos para seu site. Este processo, basicamente, consiste no cadastro de dois apontamentos DNS, um do tipo A, e outro do tipo CNAME.
+
+### Apontamento tipo A
+O apontamento tipo A, também chamado de hostname, é o principal registro de um domínio. Ele é responsável por manter o site online, sempre o associando a um endereço de IP.
+
+Aqui, este apontamento irá ligar o seu endereço próprio ao servidor da Indexa.
+
+### Apontamento tipo CNAME
+Já o apontamento CNAME é responsável por fazer a conexão dos endereços através dos nomes (domínio próprio e domínio compartilhado).
+
+Ele funciona como um redirecionamento, então aqui, ele irá garantir que o usuário possa acessar a seu site sem que seja necessário utilizar o domínio compartilhado.
+
+
+## DNS da Indexa
+Acesse o site onde você comprou seu domínio e insira as seguintes linhas em suas configurações de DNS.
+![DNS Indexa](./images/dns.png)
+**Lembre-se de de mudar o "coloqueseudominio" pelo seu dominio da Indexa.**
 
 ## Adicionando linha DNS - GoDaddy
+[Clique aqui e saiba como.](https://br.godaddy.com/help/gerenciar-os-registros-dns-680)
 
 
 ## Adicionando linha DNS - Registro.br
+[Clique aqui e saiba como.](registro.br/ajuda/gerenciamento-de-conta/funcoes-contato-do-titular)
 
 
 ## Adicionando linha DNS - Hostgator
+[Clique aqui e saiba como.](https://suporte.hostgator.com.br/hc/pt-br/articles/115000389554-Como-criar-ou-alterar-um-registro-MX-TXT-CNAME-e-outros-na-zona-DNS)
+
 
 ## Vincular seu domínio ao seu site Indexa
 
