@@ -24,20 +24,19 @@ Ele funciona como um redirecionamento, então aqui, ele irá garantir que o usu�
 
 ## DNS da Indexa
 Acesse o site onde você comprou seu domínio e insira as seguintes linhas em suas configurações de DNS.
-![DNS Indexa](./images/dns.png)
+
+![DNS Indexa](../images/dns.png)
+
 **Lembre-se de de mudar o "coloqueseudominio" pelo seu dominio da Indexa.**
 
 ## Adicionando linha DNS - GoDaddy
-[Clique aqui e saiba como.](https://br.godaddy.com/help/gerenciar-os-registros-dns-680)
-
+<a href="https://br.godaddy.com/help/gerenciar-os-registros-dns-680" target="_blank">Clique aqui e saiba como.</a>
 
 ## Adicionando linha DNS - Registro.br
-[Clique aqui e saiba como.](registro.br/ajuda/gerenciamento-de-conta/funcoes-contato-do-titular)
-
+<a href="https://registro.br/ajuda/gerenciamento-de-conta/funcoes-contato-do-titular" target="_blank">Clique aqui e saiba como.</a>
 
 ## Adicionando linha DNS - Hostgator
-[Clique aqui e saiba como.](https://suporte.hostgator.com.br/hc/pt-br/articles/115000389554-Como-criar-ou-alterar-um-registro-MX-TXT-CNAME-e-outros-na-zona-DNS)
-
+<a href="https://suporte.hostgator.com.br/hc/pt-br/articles/115000389554-Como-criar-ou-alterar-um-registro-MX-TXT-CNAME-e-outros-na-zona-DNS" target="_blank">Clique aqui e saiba como</a>
 
 ## Vincular seu domínio ao seu site Indexa
 

@@ -8,10 +8,10 @@ Veja abaixo como comprar um domínio em algumas empresas que prestam esse servi�
 
 
 ##  Comprando um domínio - GoDaddy
-[Clique aqui e veja como.](https://br.godaddy.com/blog/como-comprar-o-dominio-que-voce-deseja/)
+<a href="https://br.godaddy.com/blog/como-comprar-o-dominio-que-voce-deseja/" target="_blank">Clique aqui e saiba como</a>
 
 ##  Comprando um domínio - Registro.br
-[Clique aqui e veja como.](registro.br/ajuda/registro-de-novos-dominios/)
+<a href="https://registro.br/ajuda/registro-de-novos-dominios/" target="_blank">Clique aqui e saiba como</a>
 
 ##  Comprando um domínio - Hostgator
-[Clique aqui e veja como.](suporte.hostgator.com.br/hc/pt-br/articles/115000636134-Como-registrar-um-domínio-)
+<a href="https://suporte.hostgator.com.br/hc/pt-br/articles/115000636134-Como-registrar-um-domínio-" target="_blank">Clique aqui e saiba como</a>
