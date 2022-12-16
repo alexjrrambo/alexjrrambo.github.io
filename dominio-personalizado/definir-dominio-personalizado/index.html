@@ -465,8 +465,35 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#o-que-e-dns" class="md-nav__link">
-    O que é DNS?
+  <a href="#o-que-e-apontamendo-de-dns" class="md-nav__link">
+    O que é apontamendo de DNS?
+  </a>
+  
+    <nav class="md-nav" aria-label="O que é apontamendo de DNS?">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#apontamento-tipo-a" class="md-nav__link">
+    Apontamento tipo A
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#apontamento-tipo-cname" class="md-nav__link">
+    Apontamento tipo CNAME
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dns-da-indexa" class="md-nav__link">
+    DNS da Indexa
   </a>
   
 </li>
@@ -578,8 +605,35 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#o-que-e-dns" class="md-nav__link">
-    O que é DNS?
+  <a href="#o-que-e-apontamendo-de-dns" class="md-nav__link">
+    O que é apontamendo de DNS?
+  </a>
+  
+    <nav class="md-nav" aria-label="O que é apontamendo de DNS?">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#apontamento-tipo-a" class="md-nav__link">
+    Apontamento tipo A
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#apontamento-tipo-cname" class="md-nav__link">
+    Apontamento tipo CNAME
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dns-da-indexa" class="md-nav__link">
+    DNS da Indexa
   </a>
   
 </li>
@@ -636,10 +690,26 @@
 <h1 id="definir-um-dominio-personalizado-para-meu-site-indexa">Definir um domínio personalizado para meu site Indexa</h1>
 <p>Por padrão, seu site já tem um domínio <strong>indexapro.com.br</strong>, porém, é possível que você queria que seu site seja acessível de algum outro domínio, como por exemplo <strong>minhaempresa.com.br</strong>.</p>
 <p>Para definir um domínio personalizado, você deve acessar o site onde você comprou seu domínio e insirir algumas linhas nas configurações de DNS. Calma, é fácil, vamos te explicar como realizar este processo e o que são DNSs.</p>
-<h2 id="o-que-e-dns">O que é DNS?</h2>
+<h2 id="o-que-e-apontamendo-de-dns">O que é apontamendo de DNS?</h2>
+<p>Os apontamentos são responsáveis por direcionar um site ou e-mail para um determinado servidor.</p>
+<p>Então neste caso, os apontamentos irão direcionar o seu domínio próprio para o servidor da Indexa. Assim, quando alguém acessar o seu endereço, será encaminhado diretamente para seu site na Indexa.</p>
+<p>Desta forma, após contratar um domínio, você vai precisar criar alguns apontamentos para seu site. Este processo, basicamente, consiste no cadastro de dois apontamentos DNS, um do tipo A, e outro do tipo CNAME.</p>
+<h3 id="apontamento-tipo-a">Apontamento tipo A</h3>
+<p>O apontamento tipo A, também chamado de hostname, é o principal registro de um domínio. Ele é responsável por manter o site online, sempre o associando a um endereço de IP.</p>
+<p>Aqui, este apontamento irá ligar o seu endereço próprio ao servidor da Indexa.</p>
+<h3 id="apontamento-tipo-cname">Apontamento tipo CNAME</h3>
+<p>Já o apontamento CNAME é responsável por fazer a conexão dos endereços através dos nomes (domínio próprio e domínio compartilhado).</p>
+<p>Ele funciona como um redirecionamento, então aqui, ele irá garantir que o usuário possa acessar a seu site sem que seja necessário utilizar o domínio compartilhado.</p>
+<h2 id="dns-da-indexa">DNS da Indexa</h2>
+<p>Acesse o site onde você comprou seu domínio e insira as seguintes linhas em suas configurações de DNS.
+<img alt="DNS Indexa" src="./images/dns.png" />
+<strong>Lembre-se de de mudar o "coloqueseudominio" pelo seu dominio da Indexa.</strong></p>
 <h2 id="adicionando-linha-dns-godaddy">Adicionando linha DNS - GoDaddy</h2>
+<p><a href="https://br.godaddy.com/help/gerenciar-os-registros-dns-680">Clique aqui e saiba como.</a></p>
 <h2 id="adicionando-linha-dns-registrobr">Adicionando linha DNS - Registro.br</h2>
+<p><a href="registro.br/ajuda/gerenciamento-de-conta/funcoes-contato-do-titular">Clique aqui e saiba como.</a></p>
 <h2 id="adicionando-linha-dns-hostgator">Adicionando linha DNS - Hostgator</h2>
+<p><a href="https://suporte.hostgator.com.br/hc/pt-br/articles/115000389554-Como-criar-ou-alterar-um-registro-MX-TXT-CNAME-e-outros-na-zona-DNS">Clique aqui e saiba como.</a></p>
 <h2 id="vincular-seu-dominio-ao-seu-site-indexa">Vincular seu domínio ao seu site Indexa</h2>
 <p>Agora que você já inseriu as linhas de DNS necessárias, vamos vincular o domínio que você comprou à sua conta Indexa, para isso, você deverá acessar <a href="https://indexapro.com.br/dashboard/meus-dominios">Painel do Cliente &gt; Meu Site &gt; Meus Domínios</a>.</p>
 <h2 id="tempo-de-vinculacao">Tempo de vinculação</h2>
