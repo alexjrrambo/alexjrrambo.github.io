@@ -24,6 +24,7 @@ theme:
   name: "material"
   language: pt-BR
   logo: https://d2qk6l2gc5y036.cloudfront.net/indexa-mfe-library/shared-assets/indexaLogo.png
+  favicon: images/favicon.ico
 
 extra_css:
   - stylesheets/extra.css
