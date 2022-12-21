@@ -18,6 +18,7 @@ nav:
     - Definir domínio personalizado: dominio-personalizado/definir-dominio-personalizado.md
   - Ativando certificado SSL:  ativando-certificado-ssl.md
   - Otimização para motores de busca (SEO):  otimizacao-para-motores-de-busca-seo.md
+  - Integrações:  integracoes.md
 
 theme:
   name: "material"
